@@ -13,13 +13,13 @@ if (a >= 0) {
 
 // //   Task-2: Треугольник в цикле
 
-// let str= "#";
+let str= "#";
 
-// while (str.length<=7 ){
-//     console.log (str + "\n");
+while (str.length<=7 ){
+    console.log (str + "\n");
 
-//     str += "#";
-// }
+    str += "#";
+}
 
 
 // // Task-3: FizzBuzz
